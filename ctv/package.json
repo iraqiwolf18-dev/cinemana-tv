@@ -2,9 +2,9 @@
   "name": "cinemana-tv-ctv",
   "appName": "Cinemana (Smart TV)",
   "version": "1.0.0",
-  "description": "موقع سينمانا الرسمي المخصص للتلفزيونات (/CTV/) — تنقّل الريموت من الموقع نفسه",
+  "description": "موقع سينمانا الرسمي المخصص للتلفزيونات (/CTV/) — يفتح على صفحة الأفلام لأن رئيسيته معطوبة عندهم",
   "packageType": "mods",
-  "websiteURL": "https://cinemana.shabakaty.cc/CTV/",
+  "websiteURL": "https://cinemana.shabakaty.cc/CTV/#/movies",
   "main": "noop.js",
   "keys": [
     "MediaPlayPause",
