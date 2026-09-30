@@ -1,0 +1,18 @@
+{
+  "name": "cinemana-tv",
+  "appName": "Cinemana",
+  "version": "1.0.0",
+  "description": "سينمانا على شاشات سامسونك: تنقّل بأسهم الريموت، مشغّل بالشاشة الكاملة، الجودة، المواسم والحلقات",
+  "packageType": "mods",
+  "websiteURL": "https://cinemana.shabakaty.cc/",
+  "main": "dist/userScript.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind"
+  ],
+  "license": "MIT"
+}
