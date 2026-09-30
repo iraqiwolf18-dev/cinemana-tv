@@ -11,6 +11,8 @@
  */
 (function () {
   'use strict';
+  // موقع سينمانا المخصص للتلفزيون (/CTV/) عنده تنقّل بالريموت خاص به، فلا نتدخل
+  if (/^\/CTV(\/|$)/i.test(location.pathname)) return;
   if (window.__cinemanaTV) return;
   window.__cinemanaTV = true;
 
